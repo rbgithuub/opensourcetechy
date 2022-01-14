@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T19:10:43.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9ZNv8eRzA68w1apBH9Du" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T19:15:24.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0HnudBJ2reAfPZW5IImJ" version="16.2.7" type="github">
   <diagram id="FEf-UrnhVNZQv8xpcXTI" name="Page-1">
     <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,6 +20,9 @@
         </mxCell>
         <mxCell id="_XW2gZ0o_U_BfesQzoiH-5" value="&lt;b&gt;PRODUCT OWNER&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_XW2gZ0o_U_BfesQzoiH-6" value="Low &lt;----- High Priority" style="swimlane;horizontal=0;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
