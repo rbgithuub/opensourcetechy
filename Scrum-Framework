@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2022-01-14T19:07:59.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="eoS3pAjSil2J4Wg3lB-I" version="16.2.7" type="github">
+  <diagram id="FEf-UrnhVNZQv8xpcXTI" name="Page-1">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_XW2gZ0o_U_BfesQzoiH-1" value="&lt;b&gt;SCRUM FRAMEWORK&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="10" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_XW2gZ0o_U_BfesQzoiH-2" value="Input from end-users, customers, team &amp;amp;&lt;br&gt;stakeholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
